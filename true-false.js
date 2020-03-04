@@ -1,10 +1,16 @@
+// Falsy:
+// false
+// 0
+// ""
+// undefined
+// nul
+// NaN
 
-
-
-
-
-
-
+// Truthy:
+// "0"
+// " "
+// {}
+// []
 
 
 const age = 4; //zero hole false default
